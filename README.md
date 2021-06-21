@@ -1,2 +1,2 @@
 # Data-Structure
-This repository contains Data Structure programs in C.
+This repository contains various Data Structure programs.
